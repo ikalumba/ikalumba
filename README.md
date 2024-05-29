@@ -9,7 +9,14 @@ My journey in the world of software development has been an exhilarating ride, a
 ![vue js](https://img.shields.io/badge/Vuejs-green?style=for-the-badge&logo=vue) ![Node Js](https://img.shields.io/badge/Nodejs-maroon?style=for-the-badge&logo=node) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)  ![Postman](https://img.shields.io/badge/Postman-brightgreen?style=for-the-badge&logo=postman) ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)     
 
 ## Let’s Connect!
+<a href="https://www.linkedin.com/in/isaac-kalumba-a3436117b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDHyRtKp1ROiW3F1cKvUvOw%3D%3D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <!--
+<p align="left"> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ikalumba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/isaac-kalumba-a3436117b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDHyRtKp1ROiW3F1cKvUvOw%3D%3D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <a>
 <img src=""/>
 </a>
