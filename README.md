@@ -5,7 +5,7 @@ I’m a curious soul with a passion for solving real world problems and making l
 I'm always willing to learn and take on new challenges to further extend my horizons.🪂<br>
 My journey in the world of software development has been an exhilarating ride, and I’m just getting started.🚀🚀
 ## Technologies and tools
-![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript) ![React Js](https://img.shields.io/badge/Reactjs-magenta?style=for-the-badge&logo=react) 
+![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typecript) ![React Js](https://img.shields.io/badge/Reactjs-magenta?style=for-the-badge&logo=react) 
 ![vue js](https://img.shields.io/badge/Vuejs-green?style=for-the-badge&logo=vue) ![Node Js](https://img.shields.io/badge/Nodejs-maroon?style=for-the-badge&logo=node) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)  ![Postman](https://img.shields.io/badge/Postman-brightgreen?style=for-the-badge&logo=postman) ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)     
 
 ## Let’s Connect!
