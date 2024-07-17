@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Isaac Kalumba
 Software Engineer | Problem Solver | Lifelong Learner
 ## About Me
-I’m a curious soul with a passion for solving real world problems and making living a little more fun through harnessing the power of software. I'm facinated by the almost limitless potential of code to turn ideas into real life entities especially when it's well written in collaboration with a great team.<br>
+I’m a curious soul with a passion for solving real world problems and making living a little more fun through harnessing the power of software. I'm facinated by the limitless potential of code to turn ideas into real life entities especially when it's well written in collaboration with a great team.<br>
 I'm always willing to learn and take on new challenges to further extend my horizons.🪂<br>
 My journey in the world of software development has been an exhilarating ride, and I’m just getting started.🚀🚀
 ## Technologies and tools
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typecript) ![React Js](https://img.shields.io/badge/Reactjs-magenta?style=for-the-badge&logo=react) 
-![vue js](https://img.shields.io/badge/Vuejs-green?style=for-the-badge&logo=vue) ![Node Js](https://img.shields.io/badge/Nodejs-maroon?style=for-the-badge&logo=node) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)  ![Postman](https://img.shields.io/badge/Postman-brightgreen?style=for-the-badge&logo=postman) ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)     
+![vue js](https://img.shields.io/badge/Vuejs-green?style=for-the-badge&logo=vue) ![Node Js](https://img.shields.io/badge/Nodejs-maroon?style=for-the-badge&logo=node) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) ![Mongodb](https://img.shields.io/badge/Mongodb-maroon?style=for-the-badge&logo=mongodb) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)  ![Postman](https://img.shields.io/badge/Postman-brightgreen?style=for-the-badge&logo=postman) ![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)     
 
 ## Let’s Connect!
 <a href="https://www.linkedin.com/in/isaac-kalumba-a3436117b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDHyRtKp1ROiW3F1cKvUvOw%3D%3D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
